@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif)](https://ribhar.github.io)
+<div style="margin: auto">[![MasterHead](https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif)](https://ribhar.github.io)</div>
 <h1 align="center">Hi 👋, I'm Ritik Bhardwaj</h1>
 <h3 align="center">A Passionate learner, and a Full Stack Web Developer🧑🏻‍💻.</h3>
 
