@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif)](https://ribhar.github.io) -->
-<img align="center" alt="Explorer" width="100%" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif">
+<img align="center" alt="Explorer" width="100%" height="300px" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif">
 <h1 align="center">Hi 👋, I'm Ritik Bhardwaj</h1>
 <h3 align="center">A Passionate learner, and a Full Stack Web Developer🧑🏻‍💻.</h3>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ribhar" alt="ribhar" /></a> </p>
 
-<img align="right" alt="Explorer" width="400" src="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">
+<img align="right" width="400" src="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **React**
