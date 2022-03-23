@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ribhar" alt="ribhar" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">
+<img align="right" alt="Explorer" width="400" src="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **React**
