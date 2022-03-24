@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-bottom= "20px" src="https://github-profile-trophy.vercel.app/?username=ribhar" alt="ribhar" /></a> </p>
 <br>
-<img align="right" width="350px"  margin="20px" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611944b82d550a200f205e75471226f33216c8cae89&rid=giphy.gif&ct=g">
-<br>
+<img align="right" width="350px" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611944b82d550a200f205e75471226f33216c8cae89&rid=giphy.gif&ct=g">
 
 
 
