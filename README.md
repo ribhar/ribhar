@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif)](https://ribhar.github.io) -->
 <img align="center" alt="Explorer" width="100%" height="400px" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif">
 <h1 align="center">Hi 👋, I'm Ritik Bhardwaj</h1>
-<h3 align="center">A passionate learner, and a Full Stack Web Developer🧑🏻‍💻.</h3>
+<h3 align="center">A keen learner, and a Full Stack Web Developer🧑🏻‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribhar&label=Profile%20views&color=0e75b6&style=flat" alt="ribhar" /> </p>
 
