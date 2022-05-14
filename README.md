@@ -24,9 +24,6 @@
 
 - 📫 How to reach me **varribhar@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DBqJkNqsGQ8u470KWKHFBUSTGH38jvkI/edit?usp=sharing&ouid=113098675394676819152&rtpof=true&sd=true](https://docs.google.com/document/d/1DBqJkNqsGQ8u470KWKHFBUSTGH38jvkI/edit?usp=sharing&ouid=113098675394676819152&rtpof=true&sd=true)
-
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
