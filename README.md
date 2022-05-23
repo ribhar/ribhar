@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-bottom= "20px" src="https://github-profile-trophy.vercel.app/?username=ribhar" alt="ribhar" /></a> </p>
 <br>
-<img align="right" width="350px" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611944b82d550a200f205e75471226f33216c8cae89&rid=giphy.gif&ct=g">
-
+<!-- <img align="bottom" width="350px" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611944b82d550a200f205e75471226f33216c8cae89&rid=giphy.gif&ct=g"> -->
 
 
 
@@ -23,6 +22,10 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, and DSA**
 
 - 📫 How to reach me **varribhar@gmail.com**
+  
+
+
+
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -36,7 +39,10 @@
 <br>
 
 <p><img margin-bottom="20px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ribhar&show_icons=true&locale=en&layout=compact" alt="ribhar" /></p>
+<div align="center">
+  <div style="display: flex; justify-content:  space-between;">
+    <img margin-bottom="20px" width="500px" align="top" src="https://github-readme-stats.vercel.app/api?username=ribhar&show_icons=true&locale=en" alt="ribhar" />
+   <img margin-bottom="20px" width="500px" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=ribhar&" alt="ribhar" />
+  </div>
+</div>
 
-<p><img margin-bottom="20px" align="center" src="https://github-readme-stats.vercel.app/api?username=ribhar&show_icons=true&locale=en" alt="ribhar" /></p>
-
-<p><img margin-bottom="20px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ribhar&" alt="ribhar" /></p>
