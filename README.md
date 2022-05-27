@@ -13,13 +13,13 @@
 
 
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
+- 🔭 I’m currently working on **MongoDB and Express.js**
 
 - 🌱 I’m currently learning **MongoDB**
 
 - 📝 I regularly write articles on [https://medium.com/@ribhar](https://medium.com/@ribhar)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, and DSA**
+- 💬 Ask me about **React, Redux JavaScript, and TypeScript**
 
 - 📫 How to reach me **varribhar@gmail.com**
   
