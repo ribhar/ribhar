@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ribhar](https://medium.com/@ribhar)
 
-- 💬 Ask me about **React, Redux JavaScript, and TypeScript**
+- 💬 Ask me about **React, Redux, JavaScript, and TypeScript**
 
 - 📫 How to reach me **varribhar@gmail.com**
   
