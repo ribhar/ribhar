@@ -44,6 +44,8 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
    <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-chakra-ui.svg" alt="chakraui" width="40" height="40"/> </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9d77cf86f820de21d3edbdc0ef15f1c880df93633a41c6da7afc3c39b2b8a1c0/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e706e67" alt="mui" width="40" height="40"/> </a>
+   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="giticons/mongoose.png" alt="mongoose" width="60" height="30"/> </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="giticons/postman.svg" alt="postman" width="35" height="35"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-linux-48.png" alt="linux" width="40" height="40"/> </a>  </p>
 <br>
 
