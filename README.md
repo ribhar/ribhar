@@ -48,6 +48,7 @@
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="giticons/jest.svg" alt="jest" width="35" height="35"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="giticons/postman.svg" alt="postman" width="35" height="35"/> </a>
   <a href="https://dashboard.heroku.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-heroku.svg" alt="heroku" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-google-firebase-console.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-linux-48.png" alt="linux" width="40" height="40"/> </a>  </p>
 <br>
 
