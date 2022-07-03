@@ -33,8 +33,9 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ribhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ribhar" height="30" width="40" /></a>
-<a href="https://medium.com/@ribhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ribhar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ribhar" target="blank"><img align="center" src="giticons/icons8-linkedin.svg" alt="ribhar" height="40" width="40" /></a>
+<a href="https://medium.com/@ribhar" target="blank"><img align="center" src="giticons/icons8-medium-new.svg" alt="@ribhar" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/ribhar" target="blank"><img align="center" src="icons8-hackerrank.png" alt="ribhar" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
