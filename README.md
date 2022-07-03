@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ribhar" target="blank"><img align="center" src="giticons/icons8-linkedin.svg" alt="ribhar" height="40" width="40" /></a>
 <a href="https://medium.com/@ribhar" target="blank"><img align="center" src="giticons/icons8-medium-new.svg" alt="@ribhar" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/ribhar" target="blank"><img align="center" src="icons8-hackerrank.png" alt="ribhar" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/ribhar" target="blank"><img align="center" src="giticons/icons8-hackerrank.png" alt="ribhar" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
