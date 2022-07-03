@@ -16,15 +16,15 @@
 
 - 🌱 I’m currently learning **System Designing**
 
-- 👨‍💻 My Portfolio [link//](https://ribhar-portfolio.vercel.app/)
+- 👨‍💻 My Portfolio [URL](https://ribhar-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@ribhar](https://medium.com/@ribhar)
+- 📝 I regularly write articles on [medium](https://medium.com/@ribhar)
 
 - 💬 Ask me about **React, Redux, JavaScript, and TypeScript**
 
 - 📫 How to reach me **varribhar@gmail.com**
 
-- 📄 My resume [https://bit.ly/ribhar02](https://bit.ly/ribhar02)
+- 📄 My resume [URL](https://bit.ly/ribhar02)
   
 
 
