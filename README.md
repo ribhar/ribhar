@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **System Designing**
 
-- 👨‍💻 My Portfolio link [https://ribhar-portfolio.vercel.app//](https://ribhar-portfolio.vercel.app/)
+- 👨‍💻 My Portfolio [link//](https://ribhar-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@ribhar](https://medium.com/@ribhar)
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **varribhar@gmail.com**
 
-- 📄 My resume [https://bit.ly/ribhar](https://bit.ly/ribhar)
+- 📄 My resume [https://bit.ly/ribhar02](https://bit.ly/ribhar02)
   
 
 
