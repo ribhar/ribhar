@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif)](https://ribhar.github.io) -->
-<img align="center" alt="Explorer" width="100%" height="100%" src="/banner1.gif">
+<img align="center" alt="Explorer" width="100%" height="100%" src="/bannerr.gif">
 <h1 align="center">Hi 👋, I'm Ritik Bhardwaj</h1>
 <h3 align="center">A keen learner, and a Full Stack Web Developer🧑🏻‍💻.</h3>
 
