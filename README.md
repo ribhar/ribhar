@@ -2,7 +2,7 @@
 <img align="center" alt="Explorer" width="100%" height="100%" src="/bannerr.gif">
 <h1 align="center">Hi 👋, I'm Ritik Bhardwaj</h1>
 <div align="start" width="200px">
- <h3 align="start">Self-motivated and curious, with a keen interest in problem solving and building user-centric web applications. Always look forword to learn and improve</h3>
+ <h3 align="start">Self-motivated and curious, with a keen interest in problem solving and building user-centric web applications. Always look forword to learn and improve for the better change.</h3>
 </div>
 <br>
 
