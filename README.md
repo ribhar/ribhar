@@ -1,7 +1,12 @@
 <!-- [![MasterHead](https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif)](https://ribhar.github.io) -->
 <img align="center" alt="Explorer" width="100%" height="100%" src="/bannerr.gif">
 <h1 align="center">Hi 👋, I'm Ritik Bhardwaj</h1>
-<h3 align="start">Self-motivated and curious, with a keen interest problem in solving and building user-centric web applications. Always look for to learn and improve</h3>
+<div align="start" width="200px">
+ <h3 align="start">Self-motivated and curious, with a keen interest problem in solving and building user-centric web applications. Always look for to learn and improve</h3>
+</div>
+<br>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribhar&label=Profile%20views&color=0e75b6&style=flat" alt="ribhar" /> </p>
 
