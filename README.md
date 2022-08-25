@@ -8,9 +8,9 @@
 
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ribhar&label=Profile%20views&color=0e75b6&style=flat" alt="ribhar" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ribhar&label=Profile%20views&color=0e75b6&style=flat" alt="ribhar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-bottom= "20px" src="https://github-profile-trophy.vercel.app/?username=ribhar" alt="ribhar" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-bottom= "20px" src="https://github-profile-trophy.vercel.app/?username=ribhar" alt="ribhar" /></a> </p>-->
 <br>
 <!-- <img align="bottom" width="350px" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611944b82d550a200f205e75471226f33216c8cae89&rid=giphy.gif&ct=g"> -->
 
