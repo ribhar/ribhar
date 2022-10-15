@@ -15,8 +15,6 @@
 <!-- <img align="bottom" width="350px" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611944b82d550a200f205e75471226f33216c8cae89&rid=giphy.gif&ct=g"> -->
 
 
-
-
 - 🔭 I’m currently working on **Backend Projects**
 
 - 🌱 I’m currently learning **System Designing**
