@@ -26,8 +26,7 @@
 - 📫 How to reach me **varribhar@gmail.com**
 
 - 📄 My resume [URL](https://bit.ly/ribhar02)
-  
-
+ 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
