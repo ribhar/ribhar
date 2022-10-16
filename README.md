@@ -57,14 +57,13 @@
   <!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-google-firebase-console.svg" alt="firebase" width="40" height="40"/> </a> --!>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-linux-48.png" alt="linux" width="40" height="40"/> </a>  </p>
 <br>
-
 <p><img margin-bottom="20px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ribhar&show_icons=true&locale=en&layout=compact" alt="ribhar" /></p>
 <p><img  align="center" src="https://github-readme-stats.vercel.app/api?username=ribhar&show_icons=true&locale=en" alt="ribhar" /></p>
 <p> <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ribhar&" alt="ribhar" /> </p>
 <div align="center">
-  
+
   ![Snake animation](https://github.com/ribhar/ribhar/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 </div>
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
  
