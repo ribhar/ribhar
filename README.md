@@ -35,6 +35,7 @@
 <a href="https://www.hackerrank.com/ribhar" target="blank"><img align="center" src="giticons/icons8-hackerrank.png" alt="ribhar" height="40" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-mongodb.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="giticons/express.png" alt="express" width="40" height="40"/> </a>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="giticons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
@@ -64,6 +65,5 @@
   ![Snake animation](https://github.com/ribhar/ribhar/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
  
