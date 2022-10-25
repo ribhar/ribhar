@@ -28,6 +28,7 @@
 - 📄 My resume [URL](https://bit.ly/ribhar02)
  
 <br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ribhar" target="blank"><img align="center" src="giticons/icons8-linkedin.svg" alt="ribhar" height="40" width="40" /></a>
