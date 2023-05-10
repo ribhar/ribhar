@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif)](https://ribhar.github.io) -->
 <img align="center" alt="Explorer" width="100%" height="100%" src="/bannerr.gif">
-<h1 align="center">Hi 👋, I'm Ritik Bhardwaj</h1>
+<h1 align="center">Hi, This is Ritik Bhardwaj</h1>
 <div align="start" width="200px">
  <h3 align="start">Self-motivated and curious, with a keen interest in problem solving and building user-centric web applications. Always look forword to learn and improve for the better change.</h3>
 </div>
@@ -16,17 +16,17 @@
 
 - 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **System Designing**
+- 🌱 I’m currently learning **AI & ML**
 
 - 👨‍💻 My Portfolio [URL](https://ribhar-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@ribhar)
 
-- 💬 Ask me about **React, Redux, JavaScript, and TypeScript**
+- 💬 Ask me about **React, Redux, JavaScript, TypeScript, Node.js, PostgreSQL, MySQL and Sequelize**
 
 - 📫 How to reach me **varribhar@gmail.com**
 
-- 📄 My resume [URL]([https://bit.ly/ribhar02](https://drive.google.com/file/d/1ooT7vn1DoptYlhvjf8LXK0XHzNaKPHSR/view?usp=sharing)])
+- 📄 My resume [URL](https://drive.google.com/file/d/1ooT7vn1DoptYlhvjf8LXK0XHzNaKPHSR/view?usp=sharing)
  
 <br>
 
