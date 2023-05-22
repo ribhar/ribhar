@@ -2,7 +2,7 @@
 <img align="center" alt="Explorer" width="100%" height="100%" src="/bannerr.gif">
 <h1 align="center">Hi, This is Ritik Bhardwaj</h1>
 <div align="start" width="200px">
- <h3 align="start">Self-motivated and curious, with a keen interest in problem solving and building user-centric web applications. Always look forword to learn and improve for the better change.</h3>
+ <h3 align="center">Software developer industry tech, adept in database management and server-side development. Committed to delivering high-quality code and seeking opportunities to contribute to innovative software solutions.</h3>
 </div>
 <br>
 
