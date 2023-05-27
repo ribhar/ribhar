@@ -39,19 +39,20 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-mongodb.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="giticons/express.png" alt="express" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
+ <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-postgresql-480.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="giticons/express.png" alt="express" width="40" height="40"/> </a>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="giticons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-react-native.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-redux.svg" alt="redux" width="40" height="40"/> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="giticons/icons8-node-js.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="giticons/icons8-javascript.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-typescript.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-html-5.svg" alt="html5" width="40" height="I40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-css3.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-css3.svg" alt="css3" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-mysql-480.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="giticons/cpp.svg" alt="cpp" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-docker-480.svg" alt="Docker" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="giticons/tailwind-css.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
-   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-chakra-ui.svg" alt="chakraui" width="40" height="40"/> </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-material-ui.svg" alt="mui" width="40" height="40"/> </a>
-   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="giticons/mongoose.png" alt="mongoose" width="60" height="30"/> </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="giticons/jest.svg" alt="jest" width="35" height="35"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="giticons/postman.svg" alt="postman" width="35" height="35"/> </a>
   <a href="https://dashboard.heroku.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-heroku.svg" alt="heroku" width="40" height="40"/> </a>
