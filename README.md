@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif)](https://ribhar.github.io) -->
 <img align="center" alt="Explorer" width="100%" height="100%" src="/bannerr.gif">
-<h1 align="center">Hi, This is Ritik Bhardwaj</h1>
+<h1 align="center">Hi, This is Ribhar</h1>
 <div align="start" width="200px">
  <h3 align="center">Software developer industry tech, adept in database management and server-side development. Committed to delivering high-quality code and seeking opportunities to contribute to innovative software solutions.</h3>
 </div>
