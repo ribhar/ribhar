@@ -6,7 +6,7 @@
 </div>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ribhar&label=Profile%20views&color=0e75b6&style=flat" alt="ribhar" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribhar&label=Profile%20views&color=0e75b6&style=flat" alt="ribhar" /> </p> -->
 
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-bottom= "20px" src="https://github-profile-trophy.vercel.app/?username=ribhar" alt="ribhar" /></a> </p>-->
@@ -14,15 +14,15 @@
 <!-- <img align="bottom" width="350px" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611944b82d550a200f205e75471226f33216c8cae89&rid=giphy.gif&ct=g"> -->
 
 
-- 🔭 I’m currently working on **Backend Projects**
+<!-- - 🔭 I’m currently working on **Backend Projects** -->
 
-- 🌱 I’m currently learning **AI & ML**
+<!-- - 🌱 I’m currently learning **AI & ML**  -->
 
-- 👨‍💻 My Portfolio [URL](https://ribhar-portfolio.vercel.app/)
+<!-- - 👨‍💻 My Portfolio [URL](https://ribhar-portfolio.vercel.app/) -->
 
-- 📝 I regularly write articles on [medium](https://medium.com/@ribhar)
+<!-- - 📝 I regularly write articles on [medium](https://medium.com/@ribhar) -->
 
-- 💬 Ask me about **React, Redux, JavaScript, TypeScript, Node.js, PostgreSQL, MySQL and Sequelize**
+- 💬 Ask me about **MongoDB, React, Redux, JavaScript, TypeScript, Node.js, PostgreSQL, MySQL, Sequelize, AWS - S3, EC2, RDS, CI-CD**
 
 - 📫 How to reach me **ribharscode@gmail.com**
 
