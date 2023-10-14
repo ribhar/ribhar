@@ -11,28 +11,18 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I am a passionate and experienced Software Development Engineer (SDE) with a diverse skill set in various industry stacks. With a strong background in Web and Iot, I have extensive experience in handling complex projects and delivering high-quality solutions. My expertise extends to the following areas:</i>
+    <i>**I am a passionate and experienced Software Development Engineer (SDE) with a diverse skill set in various industry stacks. With a strong background in Web and Iot, I have extensive experience in handling complex projects and delivering high-quality solutions. My expertise extends to the following areas:**</i>
 </h3>
-<h2>
-    <i>- **Web Development**: Proficient in HTML, CSS, and JavaScript. Experienced in building responsive web applications using React and Angular. Skilled in server-side development with Node.js and Express.js.</i>
-</h2>
 
-## About Me
-I am a passionate and experienced Software Development Engineer (SDE) with a diverse skill set in various industry stacks. With a strong background in [mention your primary domain], I have extensive experience in handling complex projects and delivering high-quality solutions. My expertise extends to the following areas:
-
-- **Web Development**: Proficient in HTML, CSS, and JavaScript. Experienced in building responsive web applications using React and Angular. Skilled in server-side development with Node.js and Express.js.
-  
-- **Mobile Application Development**: Experienced in iOS app development using Swift and Objective-C. Skilled in Android app development using Java and Kotlin.
+- **Web Development**: Proficient in HTML, CSS, and JavaScript. Experienced in building responsive web applications using React. Skilled in server-side development with Node.js and Express.js
 
 - **Database Management**: Proficient in working with both relational and NoSQL databases. Well-versed in managing data using MySQL, PostgreSQL, MongoDB, and Redis.
 
 - **Cloud Computing**: Adept in utilizing various cloud services. Proficient in AWS, including EC2, S3, and Lambda. Experience in Microsoft Azure and Google Cloud Platform services.
-
-- **IoT (Internet of Things)**: Proficient in developing IoT solutions using platforms like Arduino and Raspberry Pi. Skilled in working with IoT protocols such as MQTT and CoAP.
-
+  
 - **DevOps and Automation**: Skilled in configuration management using Ansible and Docker. Experienced in setting up continuous integration and deployment pipelines with Jenkins and GitLab. Familiar with Kubernetes for container orchestration.
 
-- **Programming Languages and Frameworks**: Experienced in working with general-purpose languages such as Python, Java, and C#. Proficient in using Spring, .NET, Flask, and Django frameworks.
+- **Programming Languages and Frameworks**: Experienced in working with general-purpose languages such as Python, JavaScript, TypeScript and C++. Proficient in using React, Express.js Adonis.js frameworks.
 
 
 <h3>
@@ -53,23 +43,6 @@ I am a passionate and experienced Software Development Engineer (SDE) with a div
     </a>
 </p>
 <br>
-
-
-## About Me
-I am a passionate and experienced Software Development Engineer (SDE) with a diverse skill set in various industry stacks. With a strong background in [mention your primary domain], I have extensive experience in handling complex projects and delivering high-quality solutions. My expertise extends to the following areas:
-
-- **Web Development**: Proficient in HTML, CSS, and JavaScript. Experienced in building responsive web applications using React and Angular. Skilled in server-side development with Node.js and Express.js.
-  
-- **Mobile Application Development**: Experienced in iOS app development using Swift and Objective-C. Skilled in Android app development using Java and Kotlin.
-
-- **Database Management**: Proficient in working with both relational and NoSQL databases. Well-versed in managing data using MySQL, PostgreSQL, MongoDB, and Redis.
-
-- **Cloud Computing**: Adept in utilizing various cloud services. Proficient in AWS, including EC2, S3, and Lambda. Experience in Microsoft Azure and Google Cloud Platform services.
-
-- **DevOps and Automation**: Skilled in configuration management using Ansible and Docker. Experienced in setting up continuous integration and deployment pipelines with Jenkins and GitLab. Familiar with Kubernetes for container orchestration.
-
-- **Programming Languages and Frameworks**: Experienced in working with general-purpose languages such as Python, Java, and C#. Proficient in using Spring, .NET, Flask, and Django frameworks.
-  
 
 
 
