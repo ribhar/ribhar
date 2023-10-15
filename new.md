@@ -14,8 +14,7 @@
 <br>
 
 <img align="center" alt="Explorer" width="100%" height="100%" src="/bannerr.gif">
-
-
+<br>
 <!----------------------------------- About Section ------------------------------------>
 
 **I am a passionate and experienced Software Development Engineer (SDE) with a diverse skill set in various industry stacks. With a strong background in Web and Iot, I have extensive experience in handling complex projects and delivering high-quality solutions. My expertise extends to the following areas:**
