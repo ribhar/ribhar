@@ -5,32 +5,7 @@
     I'm Ritik Bhardwaj
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
-
-
-
-<!----------------------------------- About Section ------------------------------------>
-
-<h3>
-    <i>**I am a passionate and experienced Software Development Engineer (SDE) with a diverse skill set in various industry stacks. With a strong background in Web and Iot, I have extensive experience in handling complex projects and delivering high-quality solutions. My expertise extends to the following areas:**</i>
-</h3>
-
-- **Web Development**: Proficient in HTML, CSS, and JavaScript. Experienced in building responsive web applications using React. Skilled in server-side development with Node.js and Express.js
-
-- **Database Management**: Proficient in working with both relational and NoSQL databases. Well-versed in managing data using MySQL, PostgreSQL, MongoDB, and Redis.
-
-- **Cloud Computing**: Adept in utilizing various cloud services. Proficient in AWS, including EC2, S3, and Lambda. Experience in Microsoft Azure and Google Cloud Platform services.
-  
-- **DevOps and Automation**: Skilled in configuration management using Ansible and Docker. Experienced in setting up continuous integration and deployment pipelines with Jenkins and GitLab. Familiar with Kubernetes for container orchestration.
-
-- **Programming Languages and Frameworks**: Experienced in working with general-purpose languages such as Python, JavaScript, TypeScript and C++. Proficient in using React, Express.js Adonis.js frameworks.
-
-
-<h3>
-    <i>- Currently working at Copper Digital as a Software Developer</i>
-</h3>
 <br>
-
-
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
@@ -46,6 +21,25 @@
 
 
 
+<!----------------------------------- About Section ------------------------------------>
+
+**I am a passionate and experienced Software Development Engineer (SDE) with a diverse skill set in various industry stacks. With a strong background in Web and Iot, I have extensive experience in handling complex projects and delivering high-quality solutions. My expertise extends to the following areas:**<
+
+- **Web Development**: Proficient in HTML, CSS, and JavaScript. Experienced in building responsive web applications using React. Skilled in server-side development with Node.js and Express.js
+
+- **Database Management**: Proficient in working with both relational and NoSQL databases. Well-versed in managing data using MySQL, PostgreSQL, MongoDB, and Redis.
+
+- **Cloud Computing**: Adept in utilizing various cloud services. Proficient in AWS, including EC2, S3, and Lambda. Experience in Microsoft Azure and Google Cloud Platform services.
+  
+- **DevOps and Automation**: Skilled in configuration management using Ansible and Docker. Experienced in setting up continuous integration and deployment pipelines with Jenkins and GitLab. Familiar with Kubernetes for container orchestration.
+
+- **Programming Languages and Frameworks**: Experienced in working with general-purpose languages such as Python, JavaScript, TypeScript and C++. Proficient in using React, Express.js Adonis.js frameworks.
+<br>
+
+
+
+
+
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2><i>Tech Stack</i></h2>
@@ -53,21 +47,31 @@
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Passport.js-34EAB9?style=for-the-badge&logo=Node.js&logoColor=white" alt="Passport.js" />
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket.io" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="Amazon EC2" />
+    <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white" alt="Amazon S3" />
+    <img src="https://img.shields.io/badge/Elastic_IP-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="Elastic IP" />
+    <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="CloudWatch" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" />
+
 </p>
 <br>
 
