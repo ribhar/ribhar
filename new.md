@@ -1,11 +1,5 @@
+
 <!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Ritik Bhardwaj
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
-</h1>
-<br>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
@@ -19,11 +13,12 @@
 </p>
 <br>
 
+<img align="center" alt="Explorer" width="100%" height="100%" src="/bannerr.gif">
 
 
 <!----------------------------------- About Section ------------------------------------>
 
-**I am a passionate and experienced Software Development Engineer (SDE) with a diverse skill set in various industry stacks. With a strong background in Web and Iot, I have extensive experience in handling complex projects and delivering high-quality solutions. My expertise extends to the following areas:**<
+**I am a passionate and experienced Software Development Engineer (SDE) with a diverse skill set in various industry stacks. With a strong background in Web and Iot, I have extensive experience in handling complex projects and delivering high-quality solutions. My expertise extends to the following areas:**
 
 - **Web Development**: Proficient in HTML, CSS, and JavaScript. Experienced in building responsive web applications using React. Skilled in server-side development with Node.js and Express.js
 
@@ -93,6 +88,9 @@
     <a title="ribhar@gmail.com" href="mailto:ribhar@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ribhar@gmail.com" />
     </a>
+    <a href="https://drive.google.com/file/d/17Iicjt7vmVx3LnZwarU7Y-sD-4iGZ-M2/view?usp=sharing">
+        <img align="center" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+    </a>
 </p>
 <br>
 
@@ -106,6 +104,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ribhar&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="ribhar" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribhar&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="ribhar" height="139" />
 </p>
+
 <br>
 
 
