@@ -73,9 +73,7 @@
 
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
-
 <h2><i>Let's Connect</i></h2>
-
 
 <p align="left">
     <a href="https://linkedin.com/in/ribhar">
@@ -89,6 +87,12 @@
     </a>
     <a href="https://drive.google.com/file/d/17Iicjt7vmVx3LnZwarU7Y-sD-4iGZ-M2/view?usp=sharing">
         <img align="center" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+    </a>
+    <a href="https://medium.com/@ribhar">
+        <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="[https://hackerprofile.com/ribhar](https://www.hackerrank.com/profile/ribhar)">
+        <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
     </a>
 </p>
 <br>
