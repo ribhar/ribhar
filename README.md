@@ -85,7 +85,7 @@
     <a title="ribhar@gmail.com" href="mailto:ribhar@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://drive.google.com/file/d/17Iicjt7vmVx3LnZwarU7Y-sD-4iGZ-M2/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/14p6MBo1nNYV-lqHo7eQS-hLlZtFUMTOp/view?usp=sharing">
         <img align="center" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
     </a>
     <a href="https://medium.com/@ribhar">
