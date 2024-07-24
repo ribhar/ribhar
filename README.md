@@ -17,17 +17,21 @@
 <br>
 <!----------------------------------- About Section ------------------------------------>
 
-**I am a passionate and experienced Software Development Engineer (SDE) with a diverse skill set in various industry stacks. With a strong background in Web and Iot, I have extensive experience in handling complex projects and delivering high-quality solutions. My expertise extends to the following areas:**
+**Across the software development lifecycle, I leverage a diverse skillset to craft user-centric solutions. With a strong background in Web and IoT, I have extensive experience in handling complex projects and delivering high-quality solutions. My expertise extends to the following areas:**
 
-- **Web Development**: Proficient in HTML, CSS, and JavaScript. Experienced in building responsive web applications using React. Skilled in server-side development with Node.js and Express.js
+- **Web Development:** Proficient in Python and Flask, HTML, CSS, and JavaScript, with experience building responsive web applications using React and Redux. Skilled in server-side development with Node.js and Express.js, and experienced in crafting RESTful APIs.
 
-- **Database Management**: Proficient in working with both relational and NoSQL databases. Well-versed in managing data using MySQL, PostgreSQL, MongoDB, and Redis.
+- **Database Management:** Proficient in working with both relational and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Redis. Adept at managing data and ensuring efficient database operations.
 
-- **Cloud Computing**: Adept in utilizing various cloud services. Proficient in AWS, including EC2, S3, and Lambda. Experience in Microsoft Azure and Google Cloud Platform services.
-  
-- **DevOps and Automation**: Skilled in configuration management using Ansible and Docker. Experienced in setting up continuous integration and deployment pipelines with Jenkins and GitLab. Familiar with Kubernetes for container orchestration.
+- **Cloud Computing:** Confident in designing, deploying, and managing scalable microservices on AWS, including EC2, S3, RDS, SQS, SNS, Step Functions, and Lambda Functions. Additionally, experienced with Microsoft Azure and Google Cloud Platform services.
 
-- **Programming Languages and Frameworks**: Experienced in working with general-purpose languages such as Python, JavaScript, TypeScript and C++. Proficient in using React, Express.js Adonis.js frameworks.
+- **DevOps and Automation:** Skilled in configuration management using Ansible and Docker. Experienced in setting up continuous integration and deployment pipelines with Jenkins and GitLab. Familiar with Kubernetes for container orchestration.
+
+- **Programming Languages and Frameworks:** Experienced in working with general-purpose languages such as Python, JavaScript, TypeScript, and C++. Proficient in using React, Express.js, and Adonis.js frameworks.
+
+- **Version Control and CI/CD Practices:** Expertise in Git version control and CI/CD practices using Jenkins, ensuring efficient code delivery and seamless collaboration within cross-functional teams.
+
+**Fueled by a passion for continuous learning, I am currently pursuing an MCA in AI & ML. This, coupled with my existing skillset, empowers me to integrate data-driven approaches and cutting-edge technologies into innovative software solutions.**
 <br>
 
 
